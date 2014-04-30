@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <drawable name="post_cell_pressed">#009000</drawable>
+    <drawable name="post_cell_selected">#FF0000</drawable>
+    <drawable name="post_cell_normal">#000000</drawable>
+</resources>
